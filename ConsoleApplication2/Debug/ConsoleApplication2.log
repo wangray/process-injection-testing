@@ -1,0 +1,3 @@
+﻿  InjectionTest.cpp
+c:\users\ray wang\source\repos\consoleapplication2\consoleapplication2\injectiontest.cpp(138): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PIMAGE_BASE_RELOCATION'
+  ConsoleApplication2.vcxproj -> C:\Users\Ray Wang\source\repos\ConsoleApplication2\Debug\InjectionTest.exe
